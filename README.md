@@ -8,4 +8,6 @@ We test the following approaches.
 - Music Video Genre Classification using Image Frames
 - Music Video Genre Classification using combined Audio and Image Features
 
+A detailed article on this project can be found [here](https://medium.com/@aritrachowdhury95/music-genre-classification-using-deep-learning-audio-and-video-770173980104).
+
 This was done as our final project for the Advanced Machine Learning course as part of our MSBA'22 program at UT.
